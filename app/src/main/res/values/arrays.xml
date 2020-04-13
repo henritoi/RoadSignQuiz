@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sign_groups_list_values">
+        <item>Additional_panels</item>
+        <item>Information_signs</item>
+        <item>Mandatory_signs</item>
+        <item>Priority_and_give-way_signs</item>
+        <item>Regulatory_signs</item>
+        <item>Road_signs</item>
+        <item>Service_signs</item>
+        <item>Warning_signs</item>
+    </string-array>
+
+    <string-array name="sign_groups_list">
+        <item>@string/Additional_panels</item>
+        <item>@string/Information_signs</item>
+        <item>@string/Mandatory_signs</item>
+        <item>@string/Priority_and_give_way_signs</item>
+        <item>@string/Regulatory_signs</item>
+        <item>@string/Road_signs</item>
+        <item>@string/Service_signs</item>
+        <item>@string/Warning_signs</item>
+    </string-array>
+
+
+    <string-array name="sign_groups_list_for_settings">
+        <item>Additional_panels</item>
+        <item>Informatin_signs</item>
+        <item>Mandatory_signs</item>
+        <item>Priority_and_give-way_signs</item>
+        <item>Regulatory_signs</item>
+        <item>Road_signs</item>
+        <item>Service_signs</item>
+        <item>Warning_signs</item>
+    </string-array>
+
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+</resources>
